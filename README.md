@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chirchirbitok
 - 👀 I’m interested in building experiences
-- 🌱 I’m currently learning how to solve problems in an efficient manner
 - 💞️ I’m looking to collaborate on Mobile and Web Dev
 - 📫 How to reach me douglasbitok@gmail.com or +254718119450 
 
